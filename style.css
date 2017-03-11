@@ -1,13 +1,16 @@
+
+body {
+    background-color: lightblue;
+}
 h1 {
-    background-color: blue;
+    background-color: green;
 }
+
+h4 {
+    background-color: lightblue;
+}
+
 p {
-    background-color: red;
-}
-table, th, td {
-    border: 5px solid green;
-    border-collapse: collapse;
-}
-th, td {
-    padding: 25px;
+    background-color: yellow;
+
 }
